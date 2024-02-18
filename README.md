@@ -1,2 +1,2 @@
 # libtorch
-archive of libtorch version
+CMake Wrappers for libtorch
